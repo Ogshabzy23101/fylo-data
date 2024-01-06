@@ -167,7 +167,7 @@ main {
  .container {
   display: grid;
   grid-template-columns: 1fr 1.5fr;
-  border: 2px solid red;
+ 
   align-items: baseline;
  }
 
